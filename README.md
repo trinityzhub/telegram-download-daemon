@@ -71,3 +71,13 @@ $ docker-compose up -d
 ```
 
 See the `sessions` volume in the [docker-compose.yml](docker-compose.yml) file.
+
+
+
+
+
+
+
+
+
+https://hub.docker.com/r/alfem/telegram-download-daemon
